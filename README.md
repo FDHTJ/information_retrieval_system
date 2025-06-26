@@ -1,4 +1,4 @@
-# Information Retrieval System
+# Information Retrieval System --- Dehang Fu，Jie Tan，and Jinfan Yu
 
 In this project, we utilize [Grobid](https://github.com/kermitt2/grobid) to extract information from the original PDF files of articles.
 
