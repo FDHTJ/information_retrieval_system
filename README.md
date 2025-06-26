@@ -8,3 +8,6 @@ The backend is built using [Spring Boot](https://spring.io/projects/spring-boot)
 
 Due to the large size of the PDF files, we are only providing the source code here. However, you can still find the data source and the data processing procedure in `introduction.pdf`. Additionally, all the system functionalities are also documented in `introduction.pdf`.
 
+Here are the simple introduction of the system functionalities:
+
+![]
