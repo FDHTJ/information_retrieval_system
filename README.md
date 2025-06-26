@@ -13,7 +13,8 @@ Due to the large size of the PDF files, we are only providing the source code he
 Our system is divided into five main components: Home Page, Search Results Page, Details Page, User Information Page, and Admin Information Page.
 
 Regardless of which page you're on, you can navigate using the top buttons:
-- **User**: Jump to the User Information Page if you are logged in. Otherwise, you can create a new account using your email or log in.- **Home**: Return to the Home Page.
+- **User**: Jump to the User Information Page if you are logged in. Otherwise, you can create a new account using your email or log in.
+- **Home**: Return to the Home Page.
 - **History**: View the usage records.
 
 To help you better understand the functionalities of our system, here are some screenshots of each component:
