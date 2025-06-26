@@ -1,8 +1,10 @@
 # Information Retrieval System
-In this project, we use the Grobid(https://github.com/kermitt2/grobid) to extract information from original PDF files of the articles.
 
-Then we leverage Lucene(https://lucene.apache.org/) to create index on the extracted information.
+In this project, we utilize [Grobid](https://github.com/kermitt2/grobid) to extract information from the original PDF files of articles.
 
-We use the Springboot(https://spring.io/projects/spring-boot) to build the backend and the Vue(https://cn.vuejs.org/) to build the frontend.
+We then use [Lucene](https://lucene.apache.org/) to index the extracted information.
 
-Because the file of the PDFs is too big to upload, we only provide the source code here, but you can still find the datasource and the data process procdure in 
+The backend is built using [Spring Boot](https://spring.io/projects/spring-boot), and the frontend is developed with [Vue.js](https://cn.vuejs.org/).
+
+Due to the large size of the PDF files, we are only providing the source code here. However, you can still find the data source and the data processing procedure in `introduction.pdf`. Additionally, all the system functionalities are also documented in `introduction.pdf`.
+
